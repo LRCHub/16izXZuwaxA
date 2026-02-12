@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Unending Wish",
+  "base_artist": "Void_Chords",
+  "createdAt": "2026-02-12T13:17:49.601817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unending Wish",
+      "artist": "Void_Chords",
+      "has_synced": true,
+      "path": "select/01_Unending_Wish_Void_Chords.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unending Wish",
+      "artist": "Void_Chords feat.MindaRyn",
+      "has_synced": true,
+      "path": "select/02_Unending_Wish_Void_Chords_feat.MindaRyn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unending Wish (feat. MindaRyn)",
+      "artist": "Void_Chords",
+      "has_synced": true,
+      "path": "select/03_Unending_Wish_(feat._MindaRyn)_Void_Chords.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unending Wish feat. MindaRyn",
+      "artist": "Void_Chords",
+      "has_synced": false,
+      "path": "select/pl_01_Unending_Wish_feat._MindaRyn_Void_Chords.txt"
+    }
+  ]
+}
